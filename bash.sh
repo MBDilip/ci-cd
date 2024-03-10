@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-REPO_URL="https://github.com/kumaraswamygaviyappa/CI-CD-Pipeline.git"
+REPO_URL="https://github.com/MBDilip/ci-cd.git"
 NGINX_RESTART_COMMAND="sudo systemctl restart nginx"
 
 # Directory where code will be cloned
